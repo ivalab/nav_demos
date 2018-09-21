@@ -1,0 +1,3 @@
+<launch>
+  <node name="perfect_localization" pkg="gazebo_utils" type="map_transform_publisher" required="true"/>
+</launch>
