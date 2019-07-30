@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find nav_demos)/launch/includes/map_server.launch.xml"/>
+  
+</launch>
